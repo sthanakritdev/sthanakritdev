@@ -1,5 +1,5 @@
 <!-- Profile Views ด้านขวาบน -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sthanakritdev&label=Profile%20views&color=0e75b6&style=flat" alt="sthanakritdev" /> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="sthanakritdev" /> </p>
 
 <!-- ชื่อ + รูป -->
 <p align="center">
