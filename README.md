@@ -1,32 +1,38 @@
-<!-- Profile Views ด้านขวาบน -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sthanakritdev&label=Profile%20views&color=0e75b6&style=flat" alt="sthanakritdev" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sthanakritdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<!-- ชื่อ + รูป -->
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="300px" />
 </p>
-<h1 align="center">Hi! 👋 I'm Thanakrit Suriyasorn (New)</h1>
+
+<h2 align="center">Hi! 👋 I'm Thanakrit Suriyasorn (New)</h2>
+
 
 <p align="center">
-  <span style="background-color:#9333ea; color:white; padding:4px 10px; border-radius:6px;">Student at Maejo University Chiang Mai Thailand</span>
-  &nbsp;
-  <span style="background-color:#000000; color:white; padding:4px 10px; border-radius:6px;">MY PORTFOLIO</span>
+  <img src="https://img.shields.io/badge/Student%20at%20Maejo%20University%20Chiang%20Mai%20Thailand-3C3F8F?style=for-the-badge" alt="Student Badge"/>
+  <a href="https://thanarkitport.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
 
----
+```
+# 👨‍💻 Intern Full Stack Developer Learning web development and mobile application development, Never Stop Learning.
 
-## 💻 Intern Full Stack Developer
-Learning web development and mobile application development, Never Stop Learning.
-## 📬 How to reach me:
-- Gmail: **s.thanakrit.dev@gmail.com**
-- Facebook: **New Thanakrit**
+# 📧 How to reach me:  
+- Email: s.thanakrit.dev@gmail.com
+- Facebook: Thanakrit Suriyasorn
+```
+```
+I am a quick learner, fully committed to my work, and always eager to explore new opportunities and challenges.
 
----
+🌍I have learned English from game storylines and online communication since childhood, continually improving as I grew up.
 
-### ✨ About Me
-ผมมีความกระตือรือร้นที่จะเรียนรู้และพร้อมปรับตัวเข้ากับทุกสถานการณ์
+💻 Recently, I have been learning new programming languages and frameworks to expand my skills.
 
-
+📚 I enjoy continuous learning and always look for ways to improve my skills.
+```
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
