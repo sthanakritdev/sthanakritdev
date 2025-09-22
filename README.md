@@ -1,9 +1,9 @@
 <!-- Profile Views ด้านขวาบน -->
-<p align="right"> <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="sthanakritdev" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sthanakritdev&label=Profile%20views&color=0e75b6&style=flat" alt="sthanakritdev" /> </p>
 
 <!-- ชื่อ + รูป -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="150px" />
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="150px" />
 </p>
 <h1 align="center">Hi! 👋 I'm Thanakrit Suriyasorn</h1>
 
