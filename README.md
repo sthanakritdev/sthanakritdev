@@ -5,16 +5,27 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="300px" />
 </p>
-<h1 align="center">Hi! 👋 I'm Thanakrit Suriyasorn</h1>
+<h1 align="center">Hi! 👋 I'm Thanakrit Suriyasorn (New)</h1>
 
-Intern Full Stack Developer
----------------------------
+<p align="center">
+  <span style="background-color:#9333ea; color:white; padding:4px 10px; border-radius:6px;">Student at Maejo University Chiang Mai Thailand</span>
+  &nbsp;
+  <span style="background-color:#000000; color:white; padding:4px 10px; border-radius:6px;">MY PORTFOLIO</span>
+</p>
 
+---
+
+## 💻 Intern Full Stack Developer
 Learning web development and mobile application development, Never Stop Learning.
+## 📬 How to reach me:
+- Gmail: **s.thanakrit.dev@gmail.com**
+- Facebook: **New Thanakrit**
 
-* 🖥️  See my portfolio at [thanakritport.com](https://thanarkitport.vercel.app/)
-* ✉️  You can contact me at [s.thanakrit.dev@gmail.com](mailto:s.thanakrit.dev@gmail.com)
-* 🧠  I'm currently learning ReactJS, NextJS, TypeScript, JavaScript, Java
+---
+
+### ✨ About Me
+ผมมีความกระตือรือร้นที่จะเรียนรู้และพร้อมปรับตัวเข้ากับทุกสถานการณ์
+
 
 ### Skills
 <p align="left">
