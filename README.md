@@ -6,7 +6,7 @@ Intern Full Stack Developer
 
 Learning web development and mobile application development , Never Stop Learning.
 
-* 🖥️  See my portfolio at [thanakritport.com](http://https://thanarkitport.vercel.app/)
+* 🖥️  See my portfolio at [thanakritport.com](https://https://thanarkitport.vercel.app/)
 * ✉️  You can contact me at [s.thanakrit.dev@gmail.com](mailto:s.thanakrit.dev@gmail.com)
 * 🧠  I'm currently learning ReactJS, NextJS, TypeScript, JavaScript, Java
 
